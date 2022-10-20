@@ -6,5 +6,5 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    return s.index("x")
+print(main("salomx"))
